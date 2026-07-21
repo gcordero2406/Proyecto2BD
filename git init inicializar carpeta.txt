@@ -1,0 +1,11 @@
+git init inicializar carpeta
+
+git remote add origin Para vincularlo con un repo
+
+git add <file>
+
+git add . <Todo>  prepare todos los archivos que hay en el folder
+
+git commit -m es para agregar un comentario de todos los archivos que se van a ingresar
+
+git status en que situacion estoy en este momento
